@@ -1,0 +1,15 @@
+.short{
+width: 700px;
+height: 300px;
+border-radius: 5%;
+color-scheme: red;
+}
+.long{
+width: 700px;
+height: 300px;
+ border: 5px solid rgba(158, 8, 143, 0.449);
+ border-top-right-radius: 30%;
+ border-bottom-right-radius: 60%;
+ border-top-left-radius: 60px;
+ border-bottom-left-radius: 30%;
+}
